@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardra1
 - 👀 I’m interested in IT, WebDesign/Development, UX 
-- 👨🏽‍💻 I’m currently learning HTML5, CSS, JavaScript, MySQL
+- 👨🏽‍💻 I’m currently learning Java
 - 📫 How to reach me ardit.rafuni@gmail.com
 
 <!---
