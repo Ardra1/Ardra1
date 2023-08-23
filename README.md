@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ardra1
-- 👀 I’m interested in IT, WebDesign/Development, UX 
-- 👨🏽‍💻 I’m currently learning Java
+- 👋 Hi, I’m Ardit
+- 👀 I’m interested in IT, WebDesign/Development 
+- 👨🏽‍💻 I’m currently learning Interactiv design at Kristiania
 - 📫 How to reach me ardit.rafuni@gmail.com
 
 <!---
