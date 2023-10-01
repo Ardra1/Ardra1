@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ardit
-- 👀 I’m interested in IT, WebDesign/Development 
+- 👀 I’m interested in IT, Webdesign/Development/UX/UI
 - 👨🏽‍💻 I’m currently learning Interactiv design at Kristiania
 - 📫 How to reach me ardit.rafuni@gmail.com
 
